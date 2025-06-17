@@ -36,10 +36,10 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto py-0">
-                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="index.php" class="nav-item nav-link">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="room.php" class="nav-item nav-link">Rooms</a>
-                        <a href="room.php" class="nav-item nav-link">Galerie</a>
+                        <a href="galerie.php" class="nav-item nav-link">Galerie</a>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                 </div>
